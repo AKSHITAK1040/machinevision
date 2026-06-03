@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+
+# Model weights / large binaries
+*.pt
+**/*.pt
+
+# Frontend build output
+frontend/frontend/build/
+build/
+
+# Node
+frontend/frontend/node_modules/
+node_modules/
+
+# OS
+.DS_Store
+

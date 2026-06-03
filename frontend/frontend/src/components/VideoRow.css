@@ -1,0 +1,16 @@
+.video-row {
+  padding: 40px 50px;
+}
+
+.video-row h2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+.row-container {
+  display: flex;
+  gap: 20px;
+
+  overflow-x: auto;
+  padding-bottom: 10px;
+}

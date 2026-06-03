@@ -1,0 +1,8 @@
+{
+  "build": {
+    "builder": "Dockerfile",
+    "dockerfile": "Dockerfile"
+  },
+  "startCommand": "npm run start:prod"
+}
+
